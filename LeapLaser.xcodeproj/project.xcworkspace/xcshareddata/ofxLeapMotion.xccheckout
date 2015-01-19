@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>334B8BFD-0E32-47F9-9529-95B0C77AB5C7</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C8B3BF1116452BB298A0A7878FE23457C3AE1F46</key>
+		<string>https://github.com/ofTheo/ofxLeapMotion.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C8B3BF1116452BB298A0A7878FE23457C3AE1F46</key>
+		<string>ofxLeapMotion/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ofTheo/ofxLeapMotion.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C8B3BF1116452BB298A0A7878FE23457C3AE1F46</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C8B3BF1116452BB298A0A7878FE23457C3AE1F46</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxLeapMotion</string>
+		</dict>
+	</array>
+</dict>
+</plist>
